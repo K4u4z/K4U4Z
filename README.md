@@ -5,7 +5,7 @@
   <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4u4z&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ## Linguagens de Programação
+  ## Linguagens de programação
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Kauã-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div>
  
-## Redes Sociais
+## Redes sociais
  <div>
      <a href="https://www.linkedin.com/in/kauã-diodato-8858b6234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
