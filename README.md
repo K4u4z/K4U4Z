@@ -1,4 +1,4 @@
-### Olá meu nome é Kauã Diodato, sou programador e desenvolvedor de sistemas!
+### Olá meu nome é Kauã Diodato, bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/K4U4Z">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=k4u4z&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
